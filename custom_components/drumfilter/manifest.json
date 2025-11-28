@@ -4,7 +4,7 @@
   "codeowners": ["cuzcanon@163.com"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/your_repo/drumfilter",
+  "documentation": "https://gitee.com/ha-drumfilter/drumfilter",
   "integration_type": "device",
   "iot_class": "cloud_polling",
   "requirements": [],
